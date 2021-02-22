@@ -32,7 +32,7 @@ fw02-eus-hcn-a#
 fw02-eus-hcn-a#
 fw02-eus-hcn-a#
 fw02-eus-hcn-a#
-fw02-eus-hcn-a# sh tech
+fw02-eus-hcn-a# sh tech support
 
 Cisco Adaptive Security Appliance Software Version 9.14(1)
 SSP Operating System Version 2.8(1.105)
